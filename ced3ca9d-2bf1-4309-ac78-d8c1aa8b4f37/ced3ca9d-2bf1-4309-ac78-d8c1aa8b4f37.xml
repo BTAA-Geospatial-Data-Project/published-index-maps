@@ -97,7 +97,7 @@
           <gmd:date>
             <gmd:CI_Date>
               <gmd:date>
-                <gco:Date>2022-07-07</gco:Date>
+                <gco:Date/>
               </gmd:date>
               <gmd:dateType>
                 <gmd:CI_DateTypeCode codeListValue="publication" codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode"/>
@@ -175,7 +175,7 @@
           <gmd:thesaurusName>
             <gmd:CI_Citation>
               <gmd:title>
-                <gco:CharacterString>undefined 2</gco:CharacterString>
+                <gco:CharacterString>opengeometadata</gco:CharacterString>
               </gmd:title>
               <gmd:date>
                 <gmd:CI_Date>
