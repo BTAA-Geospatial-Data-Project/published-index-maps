@@ -7,7 +7,6 @@
             "properties": {
                 "title": "Daviess",
                 "label": "Daviess",
-                "note": "18027",
                 "downloadUrl": "https://lidar.digitalforestry.org/download.php?cname=daviess&clon=-87.07204467477357&clat=38.70240482623847&years=2013,2018"
             },
             "geometry": {
